@@ -8,7 +8,7 @@ Meu nome é Agno araujo de alcantara
 
 ### Você pode entrar em contato comigo : Bora terminar esse projeto
 
-![](https://tenor.com/hCRMyfCD7W7.gif)
+![https://tenor.com/hCRMyfCD7W7.gif]
 
 
 
