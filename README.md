@@ -6,10 +6,9 @@ Meu nome é Agno araujo de alcantara
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo : Bora terminar esse projeto
 
-paludettomarcelo@gmail.com
+![](https://tenor.com/hCRMyfCD7W7.gif)
 
-@marcelopaludetto
 
-![descrição do GIF](link GIF do Tenor)
+
